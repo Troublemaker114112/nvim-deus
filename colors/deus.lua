@@ -361,7 +361,6 @@ local highlight_groups = {
 	Typedef      = { fg = cyan, style = 'italic' },
 
 	--[[ 4.1.6. Edge Cases]]
-	Special        = { fg = magenta, style = 'bold' },
 	SpecialChar    = { fg = red_light, style = 'italic' },
 	SpecialKey     = 'Character',
 	Tag            = 'Underlined',
